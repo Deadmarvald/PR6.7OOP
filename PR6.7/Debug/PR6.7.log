@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR6.7\PR6.7\Array.h(22,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR6.7\PR6.7\Array.h(24,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR6.7\PR6.7\Array.h(25,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR6.7\PR6.7\Array.h(27,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR6.7\PR6.7\Array.h(43,18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR6.7\PR6.7\Array.h(46,47): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR6.7\PR6.7\Array.h(47,59): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  PR6.7.vcxproj -> D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR6.7\Debug\PR6.7.exe
